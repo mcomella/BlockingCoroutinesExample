@@ -33,19 +33,19 @@ Which amounts to:
 13:06:16.755 : coroutine 1 start!
 13:06:16.757 : coroutine 2 start!
 
-// PAUSE
+// PAUSE: THREADS ARE BLOCKED
 
 13:06:20.755 : coroutine 3 start!
 13:06:20.756 : coroutine 4 start!
 13:06:20.758 : coroutine 5 start!
 
-// PAUSE
+// PAUSE: THREADS ARE BLOCKED
 
 13:06:24.756 : coroutine 6 start!
 13:06:24.757 : coroutine 7 start!
 13:06:24.759 : coroutine 8 start!
 
-// PAUSE
+// PAUSE: THREADS ARE BLOCKED
 
 13:06:28.757 : coroutine 9 start!
 13:06:28.758 : coroutine 10 start!
